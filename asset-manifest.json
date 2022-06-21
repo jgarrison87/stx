@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stx/static/css/main.6a2cfb04.css",
+    "main.js": "/stx/static/js/main.f06fe636.js",
+    "static/media/eth-logo.png": "/stx/static/media/eth-logo.a85b6de0dc4a013ae2f8.png",
+    "static/media/btc-logo.png": "/stx/static/media/btc-logo.82491fef997ab841639c.png",
+    "index.html": "/stx/index.html",
+    "main.6a2cfb04.css.map": "/stx/static/css/main.6a2cfb04.css.map",
+    "main.f06fe636.js.map": "/stx/static/js/main.f06fe636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a2cfb04.css",
+    "static/js/main.f06fe636.js"
+  ]
+}
